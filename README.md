@@ -12,3 +12,5 @@ The goal of this project is to showcase my analysis skills in a way that would b
 ## SKILLS USED
 | Python | Pandas | MatPlotLib | Stats | Seaborn |
 
+## LINK TO TABLEAU DASHBOARD
+Will be completed soon =)

@@ -7,7 +7,7 @@ The goal of this project is to showcase my analysis skills in a way that would b
 ## FILE STRUCTURE 
 - Data Folder - all the data(database, web scrapped, csv, and etc...) used
 - Scripts Folder - all the code used
-- Summary File - neatly formatted document should my discoveries
+- Summary File - neatly formatted document showing my discoveries
 
 ## SKILLS USED
 | Python | Pandas | MatPlotLib | Stats | Seaborn |
